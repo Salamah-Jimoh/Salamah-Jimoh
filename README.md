@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Salamah</h1>
 <h3 align="center">A frontend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on **BP Debate role and pairing generator**
+- 🔭 I’m currently working on **React Food Recipe App**
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://salamah.netlify.app](https://salamah.netlify.app)
+- 👨‍💻 All of my projects are available at [here](https://salamah.netlify.app)
 
-- 📫 How to reach me **jimohsalamah@gmail.com**
+- 📫 How to reach me **salamahjimoh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12fIH0pgqCAdz88JCoZtimDvXSXtyqH_I/view/?usp=drivesdk](https://drive.google.com/file/d/12fIH0pgqCAdz88JCoZtimDvXSXtyqH_I/view/?usp=drivesdk)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/14mvlCjnmouZq5KlkZYU-NLuLN4PbvcBB/view?usp=share_link)
 
 - ⚡ Fun fact **I love poetry**
 
