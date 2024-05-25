@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **DNA Pair**
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [here](https://salamah.netlify.app)
 
 - 📫 How to reach me **salamahjimoh@gmail.com**
