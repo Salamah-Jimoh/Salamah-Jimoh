@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Salamah</h1>
 <h3 align="center">A frontend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on **React Food Recipe App**
+- 🔭 I’m currently working on **DNA Pair**
 
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [here](https://salamah.netlify.app)
 
 - 📫 How to reach me **salamahjimoh@gmail.com**
-
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/14mvlCjnmouZq5KlkZYU-NLuLN4PbvcBB/view?usp=share_link)
 
 - ⚡ Fun fact **I love poetry**
 
